@@ -1,1 +1,2 @@
-This website includes my resumem turn from pdf form to a website form 
+This website includes my resume that is turned into website form
+
